@@ -5,7 +5,7 @@
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>We need speech recognition permission to transcribe your conversations.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>We need access to your microphone for real-time transcription</string>
+	<string>We need access to your microphone for real-time transcription.</string>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>remote-notification</string>

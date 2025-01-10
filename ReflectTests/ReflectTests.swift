@@ -2,10 +2,11 @@
 //  ReflectTests.swift
 //  ReflectTests
 //
-//  Created by Jovel Ramos on 1/4/25.
+//  Created by Jovel Ramos on 1/9/25.
 //
 
 import Testing
+@testable import Reflect
 
 struct ReflectTests {
 
